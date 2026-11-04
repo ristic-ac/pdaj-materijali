@@ -1,0 +1,8 @@
+{
+ "teme": {
+  "basic-concepts": "c26e3831a1005acba87e5cc517061a249efe18c33615ba4796fe707ae3ed2de8",
+  "intro-to-rust": "8166aeae716c3947930d8d47991fa6ce11f22729b6925bcdd4a7a62e5c35eb9b",
+  "ownership": "dd6899b4dee2d7eba817fe27f98b8534547a2f69ff9b28a82a77e006ab38f0e5",
+  "structs-enums": "137f2eecdaeff7563002f712f0db0ed8e23dbf830525bb4670e0eb1a239a2a4f"
+ }
+}
